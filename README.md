@@ -95,7 +95,7 @@ Reduced Fraction: 1 / 3
 
 1.  **An electronic Solution of your program on GitHub**
 
-    a.  You are to click on the Lab07 Link on The C++ Tutorials in the section Data Input to accept this
+    a.  You are to click on the Lab09 Link on The C++ Tutorials in the section Data Input to accept this
         assignment as we've done before. Once accepted, code up a
         complete solution to each project specified above. Your
         complete solution is to be pushed to GitHub no later than the
@@ -111,5 +111,5 @@ Reduced Fraction: 1 / 3
         you typed everything correctly. Be aware that C++ is
         case-sensitive.
 
-2.  **An electronic pdf (punetidLab07Doubling.pdf) 
+2.  **An electronic pdf (punetidLab09Functions.pdf) 
 of your program is to be emailed to ryandj@pacificu.edu**
