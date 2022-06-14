@@ -78,15 +78,15 @@ Reduced Fraction: 1 / 3
     and returns the smallest value of the two values passed in. Again,
     replace <b>return 0;</b>
 
-6.  TODO#6: Implement **greatestCommonDivisor**. <u>This function needs to
-    make a call to the function minimum.</u> If the values 6 and 8 are
+6.  TODO#6: Implement **greatestCommonDivisor**. ___This function needs to
+    make a call to the function minimum.___ If the values 6 and 8 are
     passed to this function, the value 2 will be returned because 2 is
     the largest number that evenly divides both 6 and 8. Notice that
     there is no reason to check the divisors 7 and 8 since both of these
     numbers are larger than 6. Last time to replace <b>return 0;</b>
 
-7.  TODO#7: Implement **printFractionReduced**. <u>This function will need
-    to make a call to greatestCommonDivisor.</u> Once you have
+7.  TODO#7: Implement **printFractionReduced**. ___This function will need
+    to make a call to greatestCommonDivisor.___ Once you have
     completed implementing this function, uncomment the code in main. If
     your code is correct, you will be able to duplicate the above screen
     shots.
