@@ -24,7 +24,6 @@ void printFraction (int numerator, int denominator);
 int minimum (int num1, int num2);
 int greatestCommonDivisor (int num1, int num2);
 void printFractionReduced (int numerator, int denominator);
-double roundFraction (double aDouble, int anInt);
 
 /***********************************************************************
 Function:			main
